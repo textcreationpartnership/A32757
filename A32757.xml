@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocence vindicated by a brief and impartial narrative of the proceedings of the Court of Sessions in Bristol against Ichabod Chauncy, physitian in that city, to his conviction on the statute of the 35th Eliz. on the 9th of April, and to his abjuration of all the Kings dominions for ever, Aug. 15, 1684 : together with some passages subsequent thereunto / published by the said I. Chavncy.</title>
+            <author>Chauncy, Ichabod, d. 1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32757</idno>
+            <idno type="STC">Wing C3743</idno>
+            <idno type="STC">ESTC R22817</idno>
+            <idno type="EEBO-CITATION">12622636</idno>
+            <idno type="OCLC">ocm 12622636</idno>
+            <idno type="VID">64559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 709:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocence vindicated by a brief and impartial narrative of the proceedings of the Court of Sessions in Bristol against Ichabod Chauncy, physitian in that city, to his conviction on the statute of the 35th Eliz. on the 9th of April, and to his abjuration of all the Kings dominions for ever, Aug. 15, 1684 : together with some passages subsequent thereunto / published by the said I. Chavncy.</title>
+                  <author>Chauncy, Ichabod, d. 1691.</author>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Bristol)</author>
+               </titleStmt>
+               <extent>[2], 1 [i.e. 17] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chauncy, Ichabod, d. 1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64559:1"/>
+            <pb facs="tcp:64559:1" rendition="simple:additions"/>
+            <p>
+               <hi>INNOCENCE VINDICATED:</hi> BY A Brief and Impartial Narrative OF THE PROCEEDINGS OF THE <hi>Court of Seſſions</hi> IN BRISTOL AGAINST <hi>Ichabod Chauncy,</hi> Phyſitian in that City: TO HIS Conviction on the Statute of the 35th <hi>Eliz.</hi> on the 9th. of <hi>April,</hi> and to his Abjuration of all the Kings Do<g ref="char:EOLhyphen"/>minions for ever, <hi>Aug.</hi> 15. 1684.</p>
+            <p>TOGETHER, With ſome Paſſages Subſequent thereunto.</p>
+            <p>Publiſhed by the ſaid <hi>I. CHA<g ref="char:V">Ʋ</g>NCY.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 27.4.</hi>
+               </bibl> Wrath is cruel, and Anger is outragious, but who can ſtand before Envy?</q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 9.9.</hi>
+               </bibl> The Lord will be a Refuge for the Oppreſſed, a Refuge in times of Trouble.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin</hi> at the lower End of <hi>Broad ſtreet,</hi> next to <hi>London-Wall.</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64559:2"/>
+            <pb n="1" facs="tcp:64559:2"/>
+            <head>Innocence Vindicated, <hi>&amp;c.</hi>
+            </head>
+            <p>THough the Law under which I ſuffer, be by far the moſt ſevere of any in <hi>England,</hi> that Reſpects Reli<g ref="char:EOLhyphen"/>gious matters, (yea far beyond any that concerns the <hi>Papiſts</hi> as ſuch) yet had not I judged that there had been open Violence offered to ſeveral plain Statutes in the Management of my Proſecution, and bringing me under preſent Circumſtances; and all other Ways and At<g ref="char:EOLhyphen"/>tempts for Redreſs to my preſent Grievances, rendred utter<g ref="char:EOLhyphen"/>ly ineffectual through the reſtleſs Solicitations, and falſe Re<g ref="char:EOLhyphen"/>preſentations of my implacable (though cauſeleſs) Adver<g ref="char:EOLhyphen"/>ſaries. I had ſaved both my Self and the World the trouble of this preſent Narrative. But now having no other way left to Vindicate my ſelf; That the World may paſs a right Judg<g ref="char:EOLhyphen"/>ment both of my Perſon and Sufferings, I am fain to give a plain Account, both of the one, and of the other; and leave them to judge of both: Hoping alſo, that hereby his Majeſty may take Occaſion to ſee how much many of his Subjects are abuſed and oppreſſed, by the malicious Proſecutions of ſome inferiour Officers, who proſecute Penal Laws upon them ra<g ref="char:EOLhyphen"/>ther to ſatisfie their own Luſts, and perſonal Revenge, then for any true Zeal they have either to Juſtice or Loyalty. And when they have Oppreſſed any by illegal Proceedings, leaſt their unjuſt Practices ſhould be detected, and they ſuffer ſhame for the ſame; (being afraid to be brought to the Light, leaſt their Deeds ſhould be Reproved) The next Deſign is, by Ca<g ref="char:EOLhyphen"/>lumnies and falſe Inſinuations, to Render the Perſons of thoſe whom they have injured, as dangerous to the Government, and
+<pb n="2" facs="tcp:64559:3"/>only fit to be deſtroyed; yea to Obſtruct and Obviate all poſſi<g ref="char:EOLhyphen"/>ble Attempts, that their Oppreſſed Adverſaries can make for their juſt Vindication; which they do by fruſtrating their En<g ref="char:EOLhyphen"/>deavours in ſeeking Juſtice by Appeals, either by Way-laying them in all their ſteps, and ſo hindring their Acceſs unto; or by Prae-occupying the minds of thoſe with Prejudices againſt them, who only are capable to Vindicate, or do them Right.</p>
+            <p>Theſe having been the Methods of my chiefeſt Adverſaries; firſt, by rendring my Perſon Vile and Contemptible, and then as Dangerous and Diſaffected to the Government: And next, by putting a fair Gloſs upon their own Proceedings againſt me, and Obviating all my Applications for a Relief, by Writ of Error and Self-vindication, I am forced in a way of Self-De<g ref="char:EOLhyphen"/>fence to undertake a double work; Firſt, to give the World an Account of my Perſon and Principles; and then, of the Be<g ref="char:EOLhyphen"/>ginning as well as Progreſs of my preſent Perſecution.</p>
+            <p>As to my civil Profeſſion, I am a Phyſician, was born of Pi<g ref="char:EOLhyphen"/>ous and Generous Parents, of Competent Eſtate; was bred a Schollar from my Childhood, and (through the Bounty of the Almighty) was never driven to the Straits of taking upon me the mean Employment of a Drummer; (as ſome of my Ad<g ref="char:EOLhyphen"/>verſaries have often ſcornfully and againſt Knowledge Re<g ref="char:EOLhyphen"/>proached me) I have been a Maſter of Arts almoſt this thirty years, have been a Licentiate of the Colledge of Phyſitians in <hi>London,</hi> well towards twenty years; have practiſed Phyſick in <hi>Briſtol</hi> with conſiderable Succeſs, and general Acceptation, near this eighteen years; dare Challenge the worſt of mine Adver<g ref="char:EOLhyphen"/>ſaries, to ſay, and prove it, wherein I have all this while Acted any thing that looks Diſloyal to the King: Yea, I Ac<g ref="char:EOLhyphen"/>count it my Duty, to be ſubject to the Higher Powers, and be<g ref="char:EOLhyphen"/>lieve that whoſoever reſiſteth the Power, reſiſteth the Ordi<g ref="char:EOLhyphen"/>nance of God, and ſhall receive unto themſelves Damnation: and that this Subjection among Chriſtians ſhould not be only for Wrath, but for Conſcience ſake: And as matter of Duty, and a thing that is good and acceptable in the fight of God; I do dayly heartily pray for the Kings Perſon, and for all that are in Authority under him; and therefore profeſs my ſelf an open Enemy to any Plots or Attempts againſt the Kings Per<g ref="char:EOLhyphen"/>ſon and Government; and as a Teſtimony of my Loyalty, am is ready as any of my Adverſaries, to give all reaſonable Aſſu<g ref="char:EOLhyphen"/>rance
+<pb n="3" facs="tcp:64559:3"/>of my Fidelity to the Government, by taking the uſual Oaths of Allegiance and Supremacy. And let them alſo, if they can, teſtify againſt me of any Injuſtice or Unmercifulneſs toward my Neighbour, or Inſobriety and Intemperance to<g ref="char:EOLhyphen"/>wards my ſelf.</p>
+            <p>And as for my Religion, I own my ſelf a Proteſtant; and for my Faith, do believe all the Doctrinal Principles Contained in the Articles of the Church of <hi>England;</hi> and as for Worſhip, have Accomodated the ſame (as near as I could) to the Rule of Gods Word, and the beſt Examples of Primitive Saints; and wherein I have in any thing differed, from the publick in<g ref="char:EOLhyphen"/>ſtituted way of Worſhip, have always laboured to manage my ſelf, with the leaſt Offence imaginable, towards thoſe from whom I have Diſſented; avoiding all Cenſoriouſneſs of others differing from me.</p>
+            <p>If theſe things be otherwiſe, I dare ſay with <hi>Job,</hi> Chap. 31.35, 36, 37. <hi>Let my Adverſary write it in a Book,</hi> and (if he can) prove the contrary, <hi>&amp;c.</hi>
+            </p>
+            <p>As to my preſent Sufferings, in Order to a due Underſtand<g ref="char:EOLhyphen"/>ing thereof, 'tis needful to Reflect upon the Cauſe and Occa<g ref="char:EOLhyphen"/>ſion, as well as the manner of managing thereof: The internal moving cauſe thereof, I take to be an implacable Prejudice for<g ref="char:EOLhyphen"/>med in the mind of Mr. <hi>Romſey</hi> our Town-clark of <hi>Briſtol,</hi> a<g ref="char:EOLhyphen"/>gainſt me; occaſioned chiefly after this following manner, if I miſtake not, (though he had declared before that, ſome Pre<g ref="char:EOLhyphen"/>judice againſt me.) Soon after the breaking out of the late Plot, it became a common Diſcourſe, that all the Kings Head Club in <hi>London,</hi> were concerned in it; and that the Horſe-ſhooe Club in <hi>Bristol</hi> (ſo called, becauſe during the time of the laſt Election of Parliament-men, ſeveral Citizens intending to chuſe Sir <hi>Robert Atkins</hi> and Sir <hi>Jonathan Knight</hi> Senior, Parlia<g ref="char:EOLhyphen"/>ment men for that City, did frequently Aſſemble there, about that Affair) were a Branch of the ſame; and that all the ſaid Club ſhould be Indicted, and divers of them ſent for up to the Councel-Table; in order to which, divers were convened before our Juſtices, to be examined about it, among which I was one; when I came before them, among other things they queſtioned me, what Perſons uſed to meet there? Seeing Mr. <hi>Romſey</hi> Sit<g ref="char:EOLhyphen"/>ing by, (and writing Letters as I judged about that matter) I named him for one, who met (though not in the ſame place
+<pb n="4" facs="tcp:64559:4"/>yet) at the <hi>Mare-maid</hi> Tavern, with the ſame Perſons, about the ſame thing, and was as Zealous for Sir <hi>Robert Atkins</hi> as a<g ref="char:EOLhyphen"/>ny of them; this is notoriouſly known, and he confeſſed it be<g ref="char:EOLhyphen"/>fore he departed the Room.</p>
+            <p>I Nominated him for one, becauſe I thought it hard and un<g ref="char:EOLhyphen"/>reaſonable, that he ſhould be a means to bring ſo many ſcores, if not Hundreds, in trouble, (meerly for his own Advantage) in a matter wherein he was equally concerned with them, and knew them all innocent, upon this he was greatly diſpleaſed with me, as ſuppoſing this Diſcovery might threaten his place at that Juncture of time; though I told the Juſtices, that I knew of no unlawful Act committed by the ſaid Club, neither did charge him with any. Howbeit, ever ſince this, he enter<g ref="char:EOLhyphen"/>tained an implacable Prejudice againſt me, and threatned to divers, that he would ſpeedily either caſt me in a Goal, or make me fly the Country. (This I ſuppoſe he will not deny.)</p>
+            <p>In purſuance whereof, though I ſtood indicted two years be<g ref="char:EOLhyphen"/>fore on the ſame 35th of <hi>Eliz.</hi> by him, yet the very next Quar<g ref="char:EOLhyphen"/>ter-Seſſions, prefers two more heavy indictments againſt me, at one and the ſame time, either of them enough to ruine me; The one upon the Statute of <hi>Eliz.</hi> 23. for twenty pound a Month for eleven Months: The other on the 35th <hi>Eliz.</hi> on which laſt, for want of any later Crime, he chargeth me for one Committed above four years before the Indictment. And having got the Bills found by the Grand Jury, ſo earneſtly was he bent upon their Proſecution, that he exacts of me Recogni<g ref="char:EOLhyphen"/>zances more than double to what was required of others in the like Caſe, <hi>viz.</hi> 200 <hi>l.</hi> to each of mine; whereas another in<g ref="char:EOLhyphen"/>dicted on the 35th. of <hi>Eliz.</hi> was bound but in 80 <hi>l.</hi> — But be<g ref="char:EOLhyphen"/>cauſe my chief concern lies with this laſt Indictment, which threatens my Eſtate, Liberty, and Life, 'tis moſt reaſonable <hi>I</hi> ſhould be moſt concerned about the Management thereof a<g ref="char:EOLhyphen"/>gainſt me. But 'tis not fit for me to judge, (as being too par<g ref="char:EOLhyphen"/>tial in my own Cauſe) I had rather therefore, that thoſe whoſe part it is, would undertake it on my behalf. But before any true Judgment can paſs for, or againſt me, 'tis needful the In<g ref="char:EOLhyphen"/>dictment ſhould be produced, which runs after this manner.</p>
+            <q>
+               <pb n="5" facs="tcp:64559:4"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="indictment">
+                        <p>Comitat. Ci<g ref="char:EOLhyphen"/>vit. Briſtol. <hi>THE Jurors for Our Lord the King, do upon their Oath preſent, That one</hi> Ichabod Chaun<g ref="char:EOLhyphen"/>cy, <hi>late of the City of Briſtol, in the County of the ſaid City, Phy<g ref="char:EOLhyphen"/>ſitian; Who on the third Day of</hi> Auguſt, <hi>in the Thirty firſt Year of the Raign of Our Soveraegn Lord</hi> Charles <hi>the Second; by the Grace of God, of</hi> England, Scotland, France <hi>and</hi> Ireland <hi>King;</hi> &amp;c. <hi>Being of the Age of Sixteen Years and upwards, did Obſti<g ref="char:EOLhyphen"/>nately, willingly, and without any Reaſonable Cauſe, refuſe</hi> accedere (Anglice <hi>to Repair) to any Church, Chappel, or uſual Place of Common-Prayers, to hear Divine Service, now Eſtabliſhed by the Laws and Statutes of this Realm of</hi> England. <hi>And as before, from the foreſaid third Day of</hi> Auguſt, <hi>in the Thirty first Year afore<g ref="char:EOLhyphen"/>ſaid, Obſtinately, Voluntarily, and without any Reaſonable Cauſe, Abſtained from Hearing Divine Service in any Church, Chappel, or <g ref="char:V">Ʋ</g>ſual Place of Common-Prayer; unto the fourteenth Day of</hi> September, <hi>in the Year before-mentioned,</hi> viz. <hi>by the Space of one Month and more, thence next following. And the aforeſaid Jurors upon their Oaths aforeſaid, do further ſay, that the afore<g ref="char:EOLhyphen"/>ſaid</hi> Ichabod Chauncy, <hi>the ſame fourteenth Day of</hi> September, <hi>in the One and Thirtieth Year aforeſaid, in the Precincts of the Caſtle, within the ſaid City and County of</hi> Briſtol, <hi>in a certain Houſe, was there of himſelf preſent, at an <g ref="char:V">Ʋ</g>nlawful Aſſembly, Conventicle or Convention; under Colour and Pretence of the Ex<g ref="char:EOLhyphen"/>erciſe of Religion, againſt the Form of the Statute, in ſuch Caſe made and Provided. And alſo, againſt the Peace of Our Soveraign Lord the King,</hi> &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whether this Indictment be faulty or not in point of Law 'tis not proper for me (who am the Party concerned, and no Lawyer) to determine; but I'll tell the Reader, that the day before my Tryal, 'twas the judgment of a cunning Lawyer, (that pleaded earneſtly againſt me upon it the next day) the firſt letters of whoſe name is Mr. <hi>J. H.</hi> that 'twas ſo illegal and faulty, that 'twas not worth a F— and that they could not touch an hair of my head by it, and that 'twas not worth a Fee to be quit of ſuch an Indictment; thus he expreſſed him<g ref="char:EOLhyphen"/>ſelf. That which to me ſeems hard in the management there<g ref="char:EOLhyphen"/>of, is,</p>
+            <p>Firſt, That notwithſtanding 'twas by my Councel pleaded,
+<pb n="6" facs="tcp:64559:5"/>that Juſtices in Seſſions had no Power or Authority to inquire into, and judge upon Crimes relating to that Statute, which Plea was according to the Sentiments of many, if not moſt of the ableſt Lawyers in <hi>England;</hi> yea, and of one of the Lear<g ref="char:EOLhyphen"/>ned Counſel which pleaded againſt me, who but the Seſſions be<g ref="char:EOLhyphen"/>fore did with great ſtrength of Law and Reaſon plead againſt the Juriſdiction of that Court, to try a Gentleman in the very ſame Circumſtances, and that Mr. <hi>Vincent</hi> either was actually, or like to be diſcharged by Writ of Error upon the Plea, <hi>viz.</hi> That he was Tryed <hi>Coram non Judice (i. e.</hi> by Juſtices of the Peace in Seſſions) that yet they would proceed to aſſume that Power to themſelves, though to make me the firſt example which hath been in <hi>England</hi> upon this Statute for many years: and when my Counſel told them of how ill conſequence it might be for them to proceed, in caſe upon a review it ſhould prove, that they had not Authority ſo to do; this they were told was to Hector the Court.</p>
+            <p>Secondly, That notwithſtanding the Statute (urged by my Counſel) of <hi>Eliz.</hi> 31. <hi>chap.</hi> 5. Paragr. 5. where 'tis expreſly ſaid, <hi>That no Indictment ſhall lye upon any Penal Statute beyond two years, but if it be laid for a Crime beyond, it ſhall be void and of none effect; any Statute to the contrary notwithſtanding:</hi> And my Indictment appears to be laid for Crimes more then four years backwards (before the Indictment,) yet muſt it be allow<g ref="char:EOLhyphen"/>ed for Legal.</p>
+            <p>Thirdly, That whereas the Indictment chargeth me, that obſtinately and willingly I refuſed to come to ſome Church or Chappel to hear Divine Service (wherein doubtleſs the Streſs of the Act lyes) for a bare abſtinence for four weeks another Law puniſhes but at four ſhillings; and being at a Conventicle, at five ſhillings, or ten at the moſt. but theſe puniſhes theſe two put together with Impriſonment, loſs of the whole Eſtate, and perpetual Baniſhment or Death) therefore doubtleſs lyes the chief of the Crime upon obſtinate refuſing to come to Church; this my Counſel told them neceſſarily ſuppoſed ſome legal Premonition, <hi>viz.</hi> either by the Ordinary or Parſon of the Pariſh, <hi>&amp;c.</hi> but no ſuch thing was attempted to be proved a<g ref="char:EOLhyphen"/>gainſt me, and yet I muſt be found guilty of the whole In<g ref="char:EOLhyphen"/>dictment.</p>
+            <p>Fourthly, They did moreover admit of ſo light a proof of
+<pb n="7" facs="tcp:64559:5"/>the Conventicle, (which was one Eſſential Branch of the in<g ref="char:EOLhyphen"/>dictment,) in this weighty caſe, as would ſcarce have been admitted by a conſidering Juſtice of the Peace, to impoſe on the Offender the Penalty of Five Shillings, <hi>viz.</hi> One Perſon ſwears that he came into a certain houſe in the Caſtle where a Sermon was Preaching, and that I was there preſent; (where<g ref="char:EOLhyphen"/>as the Conventicle Act expreſly requires two Witneſſes to ſwear the Fact, if it be proved that way) and what is this to prove an unlawful Aſſembly, contrary to the Liturgy of the Church of <hi>England;</hi> to prove which as he ought, he ſhould have been there from the beginning, and then he might have ſwore there was no Common-Prayer.</p>
+            <p>Fifthly, Though 'twas objected by Counſel, that I had been puniſhed before for this Offence, (which was proved by a Co<g ref="char:EOLhyphen"/>py of the Record produced in open Court, which ſhewed that I had been puniſhed Ten Pound for this Conventicle, and the <hi>Town-clark</hi> alſo owned in open Court, that he had drawn this Indictment by that Record) yet exprelly contrary to that clauſe of the 22. <hi>Caroli Secundi Cap.</hi> 1. <hi>Par.</hi> 14. which ſaith, <hi>That any Perſon who ſhall be puniſhed for any Offence by vertue of this Act, ſhall not be puniſhed for the ſame Offence, by vertue of any other Act or Law whatſoever;</hi> yet notwithſtanding this Plea added to all the former in favour of my Cauſe, the Jury according to the inſtructions given them by Mr. <hi>Town-clark,</hi> bring me in guilty; whereupon I am immediately ſentenced to Goal till Conformity, and making this following ſubmiſſion in the Church or open Court, <hi>viz.</hi> That</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="confession">
+                        <p>
+                           <hi>I</hi> A. B. <hi>Do humbly confeſs and acknowledge, that I have grie<g ref="char:EOLhyphen"/>vouſty offended God, in contemning his Majeſties godly and lawful Government and Authority, by abſenting my ſelf from Church, and from hearing Divine Service, contrary to the Godly Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm, and in uſing and frequenting diſordered and unlawful Conventicles and Aſſemblies, under colour and pretence of exerciſe of Religion; and I am heartily ſorry for the ſame, and do acknowledg and teſtify in my Conſcience, that no other perſon hath or ought to have any power or authority over his Majeſty. And I do promiſe and proteſt, without any diſſimulation, or any colour and means of any diſpenſation, that from henceforth, I will from time to time obey and perform his Majeſties Laws and Statutes, in re<g ref="char:EOLhyphen"/>pariring
+<pb n="8" facs="tcp:64559:6"/>to the Church, and in hearing Divine Service, and do my utmoſt endeavour to maintian and defend the ſame.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Neither doth the Wrath of mine Adverſaries ceaſe at my Impriſonment, but follows me ſtill, to bring me within the reach of the utmoſt Severity and Penalty of the ſaid Law. (<hi>viz.</hi> the loſs of my whole Eſtate, and Abjuration at the end of three Months) Whereupon within the three Months, <hi>viz.</hi> the 16th Day of <hi>June;</hi> I was by the Juſtices twice in one Day Summo<g ref="char:EOLhyphen"/>ned to Conform, and to make the above recited Submiſſion.</p>
+            <p>And to make this pinch the cloſer upon me, my chief Ad<g ref="char:EOLhyphen"/>verſary (being all this while in <hi>London</hi>) is uſing his utmoſt endeavours, to Obviate all Attempts made by my Friends, both in Reference to a Pardon, or Writ of Error. And ſo fearful is he leaſt a Writ of Error ſhould be obtained, and thereby his Acts of Injuſtice be expoſed to the World, that when he un<g ref="char:EOLhyphen"/>derſtood that through a juſt Report of my Cauſe, made by Mr. <hi>Attorney General</hi> to the King and Councel, a Writ was like to be granted: He takes a Coach on purpoſe, and rides away to <hi>Hampton</hi> Court, where the Councel was that day to ſit; and deſiring to be called in when the Report of my Cauſe was made, by Miſ-repreſenting my Perſon and Cauſe, procured a ſtop to be put to the Writ of Error. — Sometime after this, He returns for <hi>Briſtol,</hi> where he boaſts of his great Succeſs in hin<g ref="char:EOLhyphen"/>dring my Writ of Error; ſuppoſing that now he had me at his Mercy<g ref="char:punc">▪</g> and that I muſt come up to his Terms, or be undone. Therefore ſends me word, that except I would ſubſcribe to a Petition, acknowledging that I had been legally Convicted, there was no pardon or Writ of Error to be procured: but in Caſe I would do that, he would not Obſtruct but promote it.</p>
+            <p>This I refuſed to do, as judging that ſeveral illegalities had been acted in Proceedings againſt me. At length, about the 8th of this inſtant <hi>Auguſt,</hi> a good friend of mine came unex<g ref="char:EOLhyphen"/>ſpectedly to Town, who coming to viſit me in <hi>Newgate,</hi> and Commiſerating my Condition, reſolved to diſcourſe Mr. <hi>Town Clark</hi> about me, which he accordingly did. The <hi>Town Clark</hi> after much Diſcourſe, and many Complaints, told him what kind offers he made me, and that I was ſo ſtout, I would not Petition the King; my Friend told him, he did dare to ingage for the contrary, and undertook to draw a Petition
+<pb n="9" facs="tcp:64559:6"/>which both of us ſhould like, which accordingly he did, and delivered it to the <hi>Town Clark,</hi> who with his own Pen altered ſeveral things, by Addition and Subſtraction. Agreeing, that if a Petition according to this model were conſented to, then he would prefer the ſaid Petition, either to procure a Pardon, or a Writ of Error. I conſented to the ſame, and cauſed it to be new drawn and prepared for him, when my Friend went out of Town, the <hi>Town Clark</hi> promiſed all Aid and Diſpatch, accor<g ref="char:EOLhyphen"/>ding to theſe Terms. The Perſon who new drew the Petition acquainted him that the Petion was drawn; which Petition was as follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Kings moſt Excellent Majeſty.</head>
+                        <head type="sub">The Humble Petition of <hi>Ichabod Chauncy</hi> Phyſitian, Priſoner in the Priſon of <hi>Newgate,</hi> in Your Maje<g ref="char:EOLhyphen"/>ſties City and County of <hi>Bristol.</hi>
+                        </head>
+                        <opener>Moſt Humbly Sheweth,</opener>
+                        <p>
+                           <hi>THat at a Seſſions held for the ſaid City and County, on the</hi> 9th <hi>Day of</hi> April <hi>laſt paſt; Your Petitioner was Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cted upon the Statute made the</hi> 35th <hi>of</hi> Eliz. <hi>Entitul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d,</hi> An Act to retain Her Majeſties Subjects in their due Obedience. <hi>That your Pe<g ref="char:EOLhyphen"/>titioner is adviſed,</hi>
+                           <note place="margin">Theſe two Clauſes he added with his own Pen.</note> 
+                           <hi>that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Court of Seſſions has <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o Juriſdiction in that Cauſe. And alſo, that the Fact ought to be drawn in Que<g ref="char:EOLhyphen"/>ſtion within two years; which in this Caſe was not for the ſpace of four Years and more. But notwithſtanding your Petitioner is Im<g ref="char:EOLhyphen"/>priſoned, and is lyable to abjure Your Majeſties Realms and Do<g ref="char:EOLhyphen"/>minions, and loſe his Real and Perſonal Eſtate; unleſs he Conform to the Lyturgy of the Church of</hi> England <hi>That Your Petitioner hath endeavoured to ſatisfie himſelf in ſuch Conformity, yet cannot. But hath always in all other matters behaved himſelf as a Loyal Subject to Your Majeſty, and ſhall always ſo do, if Your Majeſty will be pleaſed to extend Your Grace to him, ſo as to continue him Your Subject.</hi>
+                        </p>
+                        <p>
+                           <hi>That Your Petitioner hath always been, and is ready to give Aſſu<g ref="char:EOLhyphen"/>rance of his Fidelity to your Majeſty and Government, by taking the Oaths of Allegiance and Supremacy, and is willing to leave his
+<pb n="10" facs="tcp:64559:7"/>Habitation in the ſaid City of</hi> Briſtol,
+<note place="margin">He requi<g ref="char:EOLhyphen"/>red theſe Terms be<g ref="char:EOLhyphen"/>fore he would pro<g ref="char:EOLhyphen"/>miſe any Aſſiſtance which I thought better to yield unto, then to lye in a naſty Goal.</note> 
+                           <hi>if that be Your Majeſties Pleaſure.</hi>
+                        </p>
+                        <p>
+                           <hi>Your Petitioner moſt Humbly prays, That your Majeſty would be gratiouſly pleaſed either to grant Your Majeſties gratious Pardon, or to give leave that your Petitioner may bring a Writ of Error to Reverſe the ſaid Proceedings against him.</hi>
+                        </p>
+                        <closer>And Your Petitioner (as in Duty bound) ſhall ever Pray, <hi>&amp;c.</hi>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>When he heard the Petition was ready, he ſeemed to demur, and to ſignify that ſomething elſe muſt be done by me, before he could prefer or promote it; and accordingly the next Day ſends me this following Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Doctor Chauncy,</salute>
+                  </opener>
+                  <p>
+                     <hi>I have of late been deſired by ſome friends of yours,</hi>
+                     <note place="margin">Sure he for got that he had before aſſented to my Loyal<g ref="char:EOLhyphen"/>ty aſſerted in my Pe<g ref="char:EOLhyphen"/>tition.</note> 
+                     <hi>to be kind in aſiſting your Inlargement; but not without a ſting in the Tayl, as if my malice to you, had been the ſingle reaſon of your Confine<g ref="char:EOLhyphen"/>ment, without any ſence of your Offence to the Law in that particu<g ref="char:EOLhyphen"/>lar, or the fair Tryal and other legal Proceedings that you had for it, or any reluctancy for your often daring, and defyance of the Governours of this City, as often as you were called before there: In the firſt place, I call God to witneſs, I never had any malice a<g ref="char:EOLhyphen"/>gainſt you;</hi>
+                     <note place="margin">He had now for<g ref="char:EOLhyphen"/>got that I was a chief inſtrument to help him into his Office. For which I have been often enough re<g ref="char:EOLhyphen"/>proached ſince.</note> 
+                     <hi>nor had I any motive ſo conſiderable to induce me to your Proſecution (that is the ſhare I had in it) but the Apprehen<g ref="char:EOLhyphen"/>ſion that your Inclinations were devoted againſt, and your Intereſt very dangerous to the Kings Intereſt here; beſides thoſe many Ar<g ref="char:EOLhyphen"/>guments, I have of your particular prejudice againſt me</hi> for the ſake of my Office; <hi>and endeavours to ſupplant me even in that. This I don't lay to your charge. But if you will do any thing to give ſatisfaction of your behaviour for the future to the Kings Ser<g ref="char:EOLhyphen"/>vice: I will be ſo far from oppoſing your inlargement, that I will do what you never had Religion nor good nature enough to think on, which is, I will uſe my ſmall endeavour to promote it.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your Servant</hi> John Romſey.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="11" facs="tcp:64559:7"/>
+            <p> One that reads this Letter, and knows not the Gentleman, would imagine him a perſon intirely devoted to his Majeſties Intereſt, as if that were the Pole Star by which he ſayles in the management of all his actions. How ſincere he may be in his affections to it, I'll not undertake to cenſure; but <hi>I</hi> believe very many (and thoſe not Diſſenters) do queſtion his judge<g ref="char:EOLhyphen"/>ment in Proſecuting thereof; as judging that diſcouraging the chief Traders of this City, by ſevere Proſecutions, on Penal Laws, too heavy Fines and Impriſonments, whereby ſome are forced to quit the City; and others to withdraw themſelves from Trade, that they may live retiredly; are very unintel<g ref="char:EOLhyphen"/>ligible methods to promote the ſame. Whether <hi>by</hi> this means the Trade of this ſometime flouriſhing City hath not been greatly abated, to his Majeſties great detriment, needs no other proof then comparing the Kings Cuſtoms in this Port ſince theſe things began, with what they were before: Which, if I am not greatly misinformed fall ſhort ſome years 20000 <hi>l. per Annum</hi> of what they were before; I verily believe did this Gentleman find by this management of Affairs, his own Intereſt did ſuffer proportionably, he would ſoon change his meaſures. But theſe things bring Griſts to his Mill.</p>
+            <p>Well as to the Letter the perſon to whom he ſent it, to con<g ref="char:EOLhyphen"/>vey it to me, writes me word after this manner.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>Mr.</hi> Townclark <hi>hath ſent the encloſed, and expects your anſwer, I perceive if he like not your anſwer, he'l hinder your Pardon and Writ of Error.</hi>
+                  </p>
+                  <p>Whereupon I ſent him the following Anſwer, which I thought as modeſt as the matter would bear.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>That any of my Friends have been uſing endeavours for my In<g ref="char:EOLhyphen"/>largement, I eſteem as matter of great obligation, they proceeding chiefly from their own good will towards me; what expreſſions they uſed, (as of Malice being the ſingle Reaſon of Proceedings againſt me,) I know not, neither had they any ſuch Advice from me; but if they ſaid that there was more than a little mixture of Prejudice therein, I believe they are not ſingle in their Sentiments; and whe<g ref="char:EOLhyphen"/>ther
+<pb n="12" facs="tcp:64559:8"/>divers Paſſages in the Management of my Proſecution gave not Suſpicion of ſuch a thing, I leave you to judge: But you call God to Witneſs of the contrary, therefore all Arguments of that ſort, muſt vaniſh; my often defyance and daring Carriage towards the Governours of this City, whenſoever called before them, (where<g ref="char:EOLhyphen"/>with you charge me) hath been obſerved (for ought I know) by none but your ſelf. How fair my Tryal was, and how Legal the Proceedings againſt me have been, is fitter for more indifferent Per<g ref="char:EOLhyphen"/>ſons to judge, then either Mr.</hi> Rumſey, <hi>or my ſelf. And there<g ref="char:EOLhyphen"/>fore I deſired a Writ of Error, which (I am told) you Obſtru<g ref="char:EOLhyphen"/>cted. Your Apprehenſions that my Inclinations were devoted a<g ref="char:EOLhyphen"/>gainſt, and my Intereſt dangerous to the Kings Intereſt here, were altogether groundleſs; for neither word or deed of mine have ever ſignified any ſuch inctinations;</hi>
+                     <note place="margin">He kenw nothing to alledge, when he agreed to the Peti<g ref="char:EOLhyphen"/>tion.</note> 
+                     <hi>if they have,</hi> alledge them againſt me. <hi>Your Apprehenſions of my prejudice againſt you for the ſake of your Office, are as groundleſs as the former; whatever I ſaid or did (which you judge was with a deſign to ſupplant you) was to your face, and that which you acknowledged true in my hearing. As to the latter clauſe wherein you expect I ſhould give ſatisfaction of my behaviour for the future, I know not what you mean by it; you know in my Petion, I declare my ſelf ready to take the Oaths of Al<g ref="char:EOLhyphen"/>legiance and Supremacy, which I think are the higheſt obligations of fidelity any honest man can lay himſelf under; and as little Re<g ref="char:EOLhyphen"/>ligion as I may be thought to have, when once I have taken them, ſhall look upon my ſelf more bound thereby, then by all pecuniary obligati<g ref="char:EOLhyphen"/>ons. Sir, if you think fit (upon your own Propoſals) to prefer the Petition to which you agreed, and to uſe your intereſt toward my in<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>regement, you may be ſure it ſhall be thankfully acknowledged by</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your Friend and Servant</hi> J. Ch.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>He had no ſooner received this anſwer, but the very ſame day, <hi>viz. Aug.</hi> 15 after I had ſuffered eighteen weeks cloſe Impriſonment in a naſty Goal, (it being an adjourned Seſſions) ſends for me to Court. Being called to abjure, I craved Jeave to give ſome reaſons to the Court why they could not legally call me to it; and that</p>
+            <p>Firſt, Becauſe 'twould be contrary to an expreſs Statute in
+<pb n="13" facs="tcp:64559:8"/>their own ſence. For upon my Tryal, when my Counſel ob<g ref="char:EOLhyphen"/>jected that my Indictment was void, as being laid for a Crime committed above four years before, whereas the Statute of <hi>Eliz.</hi> 31. ſaith, <hi>That no Indictment upon any Penal Statute ſhall be of force that calls in question a Fact beyond two years</hi>] Twas then anſwered, that that Law did extend only to thoſe Penal Sta<g ref="char:EOLhyphen"/>tutes which did impoſe Pecuniary Puniſhments limited to the King, and not Corporal Puniſhments: Now if they made me abjure, I ſhould then forfeit my Eſtate by the ſame Indictment; contrary to the Law in their own ſenſe.</p>
+            <p>Secondly, According to this Statute of the 35th, before ab<g ref="char:EOLhyphen"/>juration, I ought to have been Summoned thereto by a Juſtice of the Peace, which yet I had not been.</p>
+            <p>Thirdly, That they had Convicted me as as a Recuſant, and the ſame Statute ſaith, <hi>That no Popiſh Recuſant ſhould be required to abjure by vertue of that Act;</hi> they replyed that I was not Con<g ref="char:EOLhyphen"/>victed as a Popiſh Recuſant. I told them I thought that if they did not find in any Statute mention of Proteſtant Recuſants, then it muſt be ſuppoſed that <hi>(Coram Lege)</hi> all Recuſants were Popiſh. But all theſe Pleas being over-ruled, I was forced to abjure.
+<note place="margin">I do de<g ref="char:EOLhyphen"/>ſire to a<g ref="char:EOLhyphen"/>ſign me <hi>London</hi> or <hi>Har<g ref="char:EOLhyphen"/>wich</hi> but they refu<g ref="char:EOLhyphen"/>ſed both</note> The Juſtices appointed me within three Months to depart from the Port of <hi>Briſtol.</hi>
+            </p>
+            <p>Now having abjured, one would think the Penalties I had already ſuſtained, <hi>viz</hi> the loſs of a very conſiderable Practice, eighteen weeks cloſe Impriſonment, the forfeiture of my whole Eſtate both perſonal and real; Baniſhment from all the Kings Dominions for ever might have ſurfeited the moſt exalted ma<g ref="char:EOLhyphen"/>lice; but as though the Law on which <hi>I</hi> am Proſecuted had not been ſevere enough, before <hi>I</hi> depart the Kingdom, <hi>I</hi> muſt be further ſtigmatized by a kind of Remonſtrance preferred to the Grand Jury at our General Goal Delivery, which was a<g ref="char:EOLhyphen"/>bout five days after my abjuration; The Paper our <hi>T. Cl.</hi> pre<g ref="char:EOLhyphen"/>ſents to the Grand Jury, contained ſuch black Characters and high Charges againſt me, that they abſolutely refuſed to ſub<g ref="char:EOLhyphen"/>ſcribe it. Upon which refuſal many hard words of diſpleaſure paſſed from him to the Grand Jury. Whereupon they were deſired to draw up ſuch a Paper as they would ſubſcribe, con<g ref="char:EOLhyphen"/>cerning me; and accordingly, to gratify his importunity, they produced this following Declaration.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="14" facs="tcp:64559:9"/>
+                  <p>
+                     <hi>We whoſe Names are hereunto Subſcribed, being the Grand Ju<g ref="char:EOLhyphen"/>rors for the Body of the City and County of</hi> Briſtol, <hi>in the Court of</hi> Oyer <hi>and</hi> Terminer, <hi>and General Goal-Delivery, holden the</hi> 20th <hi>of</hi> Auguſt, 1684. <hi>Do in the Names as well of Our Selves, as of all His Majeſties Faithful and Loyal Subjects within this City, re<g ref="char:EOLhyphen"/>turn Our moſt Hearty Thanks to this Court, and all others concern<g ref="char:EOLhyphen"/>ed in the Proſecution against</hi> Ichabod Chauncy, <hi>(late of this Ci<g ref="char:EOLhyphen"/>ty) upon the Statute of</hi> 35. Eliz. <hi>for that to Our Knowledge during the time of his abode in this City, (which hath been for ſome Years) he hath been a great Zealot for the Factious Party, and by Reaſon of his Employment of Practiſing Phyſick; We have Reaſon to be<g ref="char:EOLhyphen"/>lieve that he hath had very Advantagious Succeſs, in gaining to their Cauſe, and Cheriſhing in it, very great Numbers of Proſe<g ref="char:EOLhyphen"/>lytes. He was their Champion to fight out the Battels of that Par<g ref="char:EOLhyphen"/>ty, whenſoever it came in Queſtion before Our Magiſtrates; by which means, though he got of them the Character of a ſtout Com<g ref="char:EOLhyphen"/>batant, yet by the Magistrates of the City, he was ſtill Reputed a ſawcy Criminal. And this hath not only induced them and us, but may alſo every one that may come to the Knowledge of it, to be of the ſame mind, when they conſider that he hath not only impudence to menace the deliberate, juſt, and temperate Proceedings of this Court, with a Libel; But alſo, to part from it with an Impreca<g ref="char:EOLhyphen"/>tion againſt it. And We do therefore Declare to this Court, and to all the World, That it is Our Opinion, that the Proceedings a<g ref="char:EOLhyphen"/>gainſt Him, to the Abjuration of the Realm, was not only fair in all the Particulars thereof, but of abſolute neceſſity, for the quiet and peaceable Government of this City, and for His Majeſties Service.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>The plain Deſign of which in general, is partly to help Dun out of the Mire, by juſtifying the <hi>Town-clark</hi> in all his Pro<g ref="char:EOLhyphen"/>ceedings againſt me; to load me with a Charge of ſuch heavy Crimes, as may daſh any Hopes of a Pardon, and blaſt my Re<g ref="char:EOLhyphen"/>putation for the future, whereſoever I may go hereafter. Wherefore, I think all men would count me very unjuſt to my ſelf, ſhould I not endeavour to wipe of thoſe grievous Scandals, which this Remonſtrance hath unjuſtly, caſt upon me; which if not Anſwered, will for the future deſtroy my Credit, and
+<pb n="15" facs="tcp:64559:9"/>ſo may undo both my ſelf and Family: And therefore can<g ref="char:EOLhyphen"/>not but make a few Remarks upon it.</p>
+            <p>Firſt they ſay, <hi>That in the Names as well of Our Selves as of all His Majeſties Paithful and Loyal Subjects with<g ref="char:EOLhyphen"/>in this City, We return Our moſt Hearty Thanks to this Court, and all others concerned in the Proſecution againſt</hi> Icha<g ref="char:EOLhyphen"/>bod Chauncy, <hi>upon the Statute of</hi> 35 Eliz.] There are 1000 (beſides Diſſenters) in <hi>Bristol</hi> (and about it) that will neither concur with you in, nor thank you for your Thanks.</p>
+            <p>
+               <hi>For that to Our Knowledge he hath been a great Zea<g ref="char:EOLhyphen"/>lot for the Factious Party.]</hi> 'Tis no new thing to have the beſt of men ſo Reputed, <hi>Ast.</hi> 24.5.</p>
+            <p>
+               <hi>We have Reaſon to believe, by Reaſon of his Employ<g ref="char:EOLhyphen"/>ment, he hath had very advantagious Succeſs, in gaining to their Cauſe;]</hi> I verily believe there is not one Diſ<g ref="char:EOLhyphen"/>ſenter the more for me in <hi>England.</hi> (Unleſs my ſe<g ref="char:EOLhyphen"/>vere Proſecution have made ſome.) Neither can they name one (of thoſe many Numbers of Proſe<g ref="char:EOLhyphen"/>lytes which they ſay, I have made and cheriſhed) that I ever ſolicited to forſake the Church.</p>
+            <p>
+               <hi>He was their Champion to fight out the Battels of that Party, whenſoever it came in Queſtion before Our Magi<g ref="char:EOLhyphen"/>ſtrates.]</hi> I was never before the Magiſtrates of that City, but when forced to it, and that in my own Cauſe, except once to vindicate my Wife, who was near five of the Clock in the Afternoon on a Sabbath Day, taken up in the Streets, and ſent to <hi>Bridewel;</hi> as ſuppoſing ſhe was coming from a Conventicle.</p>
+            <p>
+               <hi>By which means he got of them the Character of a ſtout Combatant.]</hi> I never till now thought my Reputation had been ſo great among them for Valour.</p>
+            <pb n="4" facs="tcp:64559:10"/>
+            <p> 
+               <hi>Yet by the Magiſtrates of the City, he was ſtill Reputed a very ſawey Criminal.]</hi> If the Magiſtrates had ſo ill an Opinion of him, 'tis ſtrange they ſhould almoſt all ſo far Encourage him, as to make uſe of him, for a Pliyſi<g ref="char:EOLhyphen"/>cian to themſelves or Relations.</p>
+            <p>
+               <hi>When they Conſider, that he hath not only Impudence to menace the deliberate, juſt, and temperate Proceedings of this Court with a Libel.]</hi> Produce any Perſon that ever heard me ſo menace the Court, and I'll be con<g ref="char:EOLhyphen"/>tent to ſuffer the Puniſhment of a Libeller.</p>
+            <p>
+               <hi>But alſo to part from it with an Imprecation againſt it.]</hi> The Words wherewith I parted from the Court were theſe: Mr. <hi>Town-clark,</hi> you have now had a full ſtroak at me; all the harm I wiſh you, is, that God may not have as full a ſtroak at you Living or Dying. If this be an Imprecation, let the World judge. Me<g ref="char:EOLhyphen"/>thinks ſome one in the Grand Jury, ſhould have known the juſt difference between a Deprecation, and an Imprecation.</p>
+            <p>
+               <hi>Against it.]</hi> The words were by name directed to the <hi>Town-clark,</hi> and I never thought (till now) that the <hi>Town-clark</hi> had been the Court.</p>
+            <p>
+               <hi>We Declare therefore, That 'tis Our Opinion, that the Proceedings againſt him, to the Abjuration of the Realm, was not only fair in all the Particulars of it]</hi> Sure now the <hi>Town-clark</hi> will be confirmed in his Opinion, that there is no need of a Writ of Error, ſince he hath the Opinion of the Grand Jury in Favour of all his Pro<g ref="char:EOLhyphen"/>ceedings. But who beſides him, did ever value the Opinion of Grand Juries, in matters of Law?</p>
+            <p>
+               <hi>But of abſolute neceſſity for the quiet and peaceable Go<g ref="char:EOLhyphen"/>vernment of this City;]</hi> Is he any whit altered from what he was formerly? If not! How came the City to be peaceably Governed while he was in it near eighteen years together.</p>
+            <pb n="1" facs="tcp:64559:10"/>
+            <p> 
+               <hi>And for his Majeſties Service,]</hi> His Majeſty is only then ſerved, when his juſt Laws are Executed, and not when His Subjects by Arbitrary Proceedings of his Miniſters are Oppreſſed.</p>
+            <p>Thus I have given a true and impartial Account, of my preſent Caſe: The main Deſign whereof, is not to caſt any undue Reflections on the Law, or the King and his Government; but to inform the World, that I am not the Turbulent, diſaffected, and diſloyal Perſon, which my Adverſaries have Repreſented me to be; and that my Cauſe was not managed with ſo much Evidence and Impartiallity, but that there was and is a juſt ground for me to expect (as a matter of right) a Writ of Error. But if after all this, I ſhall ſtill be denyed from men, either wilfully, or through Prejudice and Miſinformation, that which I judge to be my Right, I'll commit my Cauſe to Him that judgeth Righteouſly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
